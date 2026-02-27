@@ -1,5 +1,9 @@
+## Perguntas
 
-## 26/02
+A priori - multiplicadores de lagrange - restrição... O que é? Qual é a ponte entre os campos / definições / uso?
+
+## Anotações de aula
+### 26/02
 
 Associação entre inferência e interpretabilidade
 
