@@ -2,6 +2,7 @@
 
 - A priori - multiplicadores de lagrange - restrição... O que é? Qual é a ponte entre os campos / definições / uso?
 - Não usar bibliotecas? Pandas, np, sns, plt -> nativos em r
+- "Conversão de variável resposta para fator" 
 
 # Anotações de aula
 ## 26/02

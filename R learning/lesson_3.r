@@ -10,7 +10,7 @@ hist(iris$Sepal.Width)
 hist(iris$Sepal.Length)
 
 # change parameter mfrow in order to put graphs in 3 rows and one column ('c' is for concatenating)
-par(mfrow=c(3,1))
+    par(mfrow=c(3,1))
 
 hist(iris$Petal.Width [iris$Species == "setosa"],
     col="#FF0000",
