@@ -1,6 +1,7 @@
 ## Perguntas
 
-A priori - multiplicadores de lagrange - restrição... O que é? Qual é a ponte entre os campos / definições / uso?
+- A priori - multiplicadores de lagrange - restrição... O que é? Qual é a ponte entre os campos / definições / uso?
+- Não usar bibliotecas? Pandas, np, sns, plt -> nativos em r
 
 # Anotações de aula
 ## 26/02
@@ -32,3 +33,6 @@ Abaixo está a representação da tabela em formato Markdown, preservando a sem�
 | *(i) Implementação e Monitoramento* | *Emprego do modelo validado em contexto aplicado e monitoramento contínuo do seu desempenho, visando assegurar estabilidade e adequação frente a mudanças nos dados ou no contexto operacional.* | **(6) Improve Performance** |
 
 ### Tarefa 1.2
+
+
+## 05/03

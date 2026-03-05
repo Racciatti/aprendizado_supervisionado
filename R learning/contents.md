@@ -24,3 +24,5 @@ plot(data/vector{,data/vector}) *(The plot command adapts to the number of varia
 * **Lesson 5**: Summary statistics
 * **Lesson 6**: 
 
+
+
